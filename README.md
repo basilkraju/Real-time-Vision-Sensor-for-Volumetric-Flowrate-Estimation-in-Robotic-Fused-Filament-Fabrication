@@ -17,3 +17,5 @@ the extrusion width. We tried different methods to improve the
 latency in processing all the frames from each of the videos and
 measuring the corresponding extrusion width from each of the
 frames to achieve real time sensing of extrusion width.
+
+FFF Vision Canny Edge Detection.ipynb is the final code which used different image processing steps and canny edge detection for inding the extrusion width.
