@@ -59,8 +59,7 @@ A summary plot showing comparison of the road width measurements resulting from 
 The time taken for processing each frame and each video are calculated and attached to
 the result sheet of each video and the final summary result sheet.
 time.perf_counter() method is used to measure the time.
-
-![image](https://user-images.githubusercontent.com/45179359/226189268-5654779f-4b02-4d10-bfa2-c2262c79fcd0.png)
+![image](https://user-images.githubusercontent.com/45179359/226279514-bad19f6e-846c-4ca2-9eba-8b737462ae2b.png)
 
 
 
