@@ -62,4 +62,7 @@ time.perf_counter() method is used to measure the time.
 ![image](https://user-images.githubusercontent.com/45179359/226279514-bad19f6e-846c-4ca2-9eba-8b737462ae2b.png)
 
 
-
+## References
+<a id ="1">[1]</a>
+Rakshith. Badarinath; Basil K Raju; Mohammed Anshad Vittaldas Prabhu; Sinnu Susan Thomas,
+“Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication,” in IFAC World Congress, Yokohawa, Japan, Jul 9-14, 2023.
